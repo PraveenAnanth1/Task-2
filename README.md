@@ -6,7 +6,6 @@ Pandas – data handling
 
 Matplotlib & Seaborn – static visualizations
 
-Plotly – interactive visualizations (optional)
 
 📁 Dataset
 Source: sklearn.datasets.load_breast_cancer()
